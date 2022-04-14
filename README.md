@@ -1,0 +1,3 @@
+🟢 Sitting
+🟠 Is
+🔴 Fun
